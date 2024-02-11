@@ -4,5 +4,5 @@
 
 - [NodeJS](nodejs.md)
 - [PHP](php.md)
-- [nginx](ngix.md)
+- [nginx](nginx.md)
 - [docker](docker.md)
